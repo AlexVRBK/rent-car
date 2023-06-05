@@ -1,4 +1,4 @@
-# Seven Cars
+# Seven Cars (rent car)
 
  [![Vue][Vue.js]][Vue-url]
 
